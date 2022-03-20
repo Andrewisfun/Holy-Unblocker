@@ -7,7 +7,6 @@ Works with a large number of sites, including YouTube, Discord, and more!
 
 Also has a good amount of locally hosted games featured on the site.
 
-**Read below for information if the official site is blocked or for obtaining more links.**
 
 #### Supports
 - Youtube.com
